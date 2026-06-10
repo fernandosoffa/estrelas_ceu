@@ -17,7 +17,8 @@ Projeto educacional para aprendizado.
 
 
 ## ⚙️ Funcionalidades
-- Página web que cria um céu estrelado usando loop for
+- Clicar em todos os quadrados para vencer o jogo.
+- Os quadrados são gerados em posições aleatórias.
 
 ## 🛠️ Stack
 - JavaScript
