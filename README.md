@@ -30,6 +30,7 @@ Projeto educacional para aprendizado.
 
 ```bash
 git clone https://github.com/fernando.soffa/estrelas_ceu
+```
 
 2. Abra o arquivo `index.html` em seu navegador.
 
